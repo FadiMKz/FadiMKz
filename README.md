@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Teilzeit jobs
+- 🔭 I’m currently working on fixing barads
 - 🌱 I’m currently learning German
 - 👯 I’m looking to collaborate on "Make heilbron great again"
 - 🤔 I’m looking for help with my barad
