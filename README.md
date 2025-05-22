@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on "Make heilbron great again"
 - 🤔 I’m looking for help with my barad
 - 💬 Ask me about my barad
-- ⚡ Fun fact: Haidar is the best tayarooo pilot
+- ⚡ Fun fact: There are no fun facts in germany
 
 <div class="container">
   <p align="left"><img src= https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20there&fontAlign=33&fontAlignY=39&stroke=00ffff&strokeWidth=1/></p>
